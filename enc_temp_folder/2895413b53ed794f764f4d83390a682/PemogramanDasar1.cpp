@@ -11,8 +11,13 @@ int main()
     // display 'Luasnya= ' + nLuas
     float nJejari, nLuas;
 
-    
+    cout << "masukan Jejari";
+    cin >> nJejari;
+    nLuas = 3.14 * nJejari * nJejari;
+    cout << "Luas lingkaran adalah = " << nLuas << endl;
+
+    system("pause");
+
     
 }//end
-
 
