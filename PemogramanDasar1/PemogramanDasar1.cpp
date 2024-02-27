@@ -12,6 +12,7 @@ int main()
     float nJejari, nLuas;
     cout << "======Luas Lingkaran======" << endl;
     cout << "masukan Jejari= ";
+    cin >> nJejari;
 
 
     
